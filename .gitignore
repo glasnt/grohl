@@ -1,0 +1,12 @@
+TAGS
+dist
+gen
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+.cabal-sandbox
+cabal.sandbox.config
+/tmp
